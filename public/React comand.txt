@@ -1,0 +1,9 @@
+React comand
+
+Start project - npx create-react-app project name
+Run project - npm start/yarn start
+Component create - rfc
+Routing - npm install react-router-dom/ yarn add install react-router-dom
+Bootstrap - npm install react-bootstrap bootstrap
+Mui - npm install mui , npm install @mui/material, npm install @emotion/react, npm install @emotion/styled
+Rest api - npm install axios 
